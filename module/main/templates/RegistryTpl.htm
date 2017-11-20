@@ -1,0 +1,41 @@
+<head>
+[$regcss$]
+</head>
+<article id="overlay" class="regFrame">
+<header><h2>Registrierung bei ST - Die Neue Grenze</h2></header>
+	<section>
+		<form action="[$target$]" onsubmit="return regformhash()" id="regForm" method="post" name="registration_form">
+			<label for="username">Username</label>
+				<input name="username"  id="username" type="text" value="[$newuser$]" placeholder="Loginname" required="required" pattern="[A-z0-9_]{6,30}">
+			<label for="password">Passwort</label>
+				<input name="password" id="password" type="password" placeholder="8 Zeichen a-zA-Z" required="required" pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}">
+			<label for="confirmPassword">Wiederhole Passwort</label>
+				<input name="confirmPassword" id="confirmPassword" type="password" required="required">
+			<label for="email">eMail</label>
+				<input name="email" id="email" type="email" placeholder="e.g. bestofficer@web.de" value="[$newemail$]" required="required">
+			<div class="switch">
+				
+				<input type="radio" class="switch-input" name="gender" id="male" value="m" checked="checked">
+					<label for="male" class="switch-label switch-label-male">männlich</label>
+				<input type="radio" class="switch-input" name="gender" id="female" value="w">
+					<label for="female" class="switch-label switch-label-female" >weiblich</label>
+				<span class="switch-selection"></span>
+			</div>
+			<div class="check">
+				<input type="checkbox" name="checkbox-age" id="ageagree"/>
+				<label for="ageagree" class="checkbox"></label>
+				<label for="ageagree" >Ich bestätige das ich über 16 jahre alt bin.</label>
+			</div>
+			
+			<div class="check">
+				<input type="checkbox" name="checkbox-rule" id="ruleagree"/>
+				<label for="ruleagree" class="checkbox"></label>
+				<label for="ruleagree">Ich akzeptiere die Rollenspielregeln.</label>
+			</div>
+			
+			<button type="submit">Sign Up</button>
+			<button type="reset" onclick="return closeOverlay()">Abbrechen</button>		
+		</form>
+		<p>[$result$]</p>
+	</section>
+</article>

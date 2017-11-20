@@ -1,0 +1,560 @@
+[17.05.2017 10:15:20 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 10:15:24 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 10:15:29 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 10:15:32 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 10:15:40 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 10:15:48 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 10:15:50 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 10:15:50 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 10:15:58 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 10:16:15 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 10:16:15 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 10:16:17 core\classes\LCARS] DEBUG Starting Executing Request for: /favicon.ico
+[17.05.2017 10:16:25 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 10:16:29 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 10:16:29 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 10:16:29 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 10:16:39 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 1.692
+[17.05.2017 10:16:43 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 10:16:44 core\classes\LCARS] DEBUG Starting Executing Request for: /favicon.ico
+[17.05.2017 10:16:58 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 10:17:01 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 10:17:01 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 10:17:01 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 10:17:09 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 10:17:11 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 10:17:11 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 10:17:11 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 10:45:34 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 10:45:36 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 10:45:36 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 10:45:36 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 10:45:36 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 10:45:36 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 10:45:36 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 10:45:36 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 10:45:36 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 10:45:36 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 10:45:36 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 10:45:42 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 10:45:45 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 10:45:45 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 10:45:47 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 10:45:47 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 10:45:47 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 10:45:47 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 10:45:47 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 10:47:44 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 10:47:49 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 10:47:49 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 10:47:49 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 10:47:49 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 10:47:50 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 10:47:50 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 10:47:50 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 10:47:50 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 10:47:50 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 10:47:50 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 10:48:03 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 10:48:05 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0.001
+[17.05.2017 10:48:05 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 10:50:32 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 10:50:32 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 10:50:32 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 10:50:32 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 10:50:33 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 10:57:53 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 10:57:56 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 10:57:56 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 10:57:56 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 10:57:56 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 10:57:56 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 10:57:56 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 10:57:56 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 10:57:56 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 10:57:57 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 10:57:57 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 10:58:08 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 10:58:10 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0.001
+[17.05.2017 10:58:10 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 10:58:12 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 10:58:12 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 10:58:12 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 10:58:12 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 10:58:12 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:00:10 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:00:13 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:00:13 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:00:13 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:00:13 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:00:13 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:00:13 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:00:13 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:00:14 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:00:14 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:00:14 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:00:15 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:00:15 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:00:15 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:00:16 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:00:16 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:00:16 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:00:16 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:00:16 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:01:09 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:01:12 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:01:12 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:01:13 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:01:13 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:01:13 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:01:13 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:01:13 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:01:13 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:01:13 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:01:13 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:01:36 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:01:39 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:01:39 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:01:39 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:01:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:01:39 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:01:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:01:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:01:39 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:01:40 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:01:40 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:02:04 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:02:09 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:02:12 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:02:16 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:02:19 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:02:19 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:02:19 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:02:19 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:03:42 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:03:47 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:03:47 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:03:47 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:03:47 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:03:47 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:03:47 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:03:47 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:03:48 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:03:48 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:03:48 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:03:49 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:03:49 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:03:49 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:03:55 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:03:59 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:03:59 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:03:59 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:03:59 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:05:12 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:05:19 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:05:21 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:05:21 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:05:21 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:05:21 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:05:21 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:05:21 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:05:21 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:05:21 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:05:29 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:05:36 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:05:43 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:05:51 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:05:54 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:05:58 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:05:58 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:05:58 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:05:58 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:09:29 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:09:32 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:09:32 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:09:35 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:09:35 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:09:36 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:09:36 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:09:36 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:09:36 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:09:36 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:09:36 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:10:27 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:10:27 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:10:27 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:10:35 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:10:38 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:10:38 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:10:38 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:10:38 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:12:19 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:12:24 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:12:24 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:12:24 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:12:24 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:12:24 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:12:24 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:12:24 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:12:24 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:12:24 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:12:24 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:13:00 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:13:06 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:13:06 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:13:11 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:13:15 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:13:15 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:13:15 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:13:15 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:14:35 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:14:39 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:14:39 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:14:39 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:14:39 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:14:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:14:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:14:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:14:39 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:14:39 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:14:39 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:15:20 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:15:20 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:15:20 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:15:27 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:15:30 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:15:30 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:15:30 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:15:30 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:18:49 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:18:51 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:18:51 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:18:51 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:18:51 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:18:51 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:18:51 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:18:51 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:18:52 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:18:52 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:18:52 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:18:59 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:19:02 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:19:02 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:19:09 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:19:14 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:19:14 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:19:14 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:19:14 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:23:06 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:23:08 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:23:08 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:23:08 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:23:08 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:23:08 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:23:08 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:23:08 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:23:08 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:23:08 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:23:08 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:23:10 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:23:10 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:23:10 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:23:31 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:23:31 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:23:31 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:23:31 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:23:32 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:25:31 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:25:34 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:25:34 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:25:34 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:25:34 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:25:34 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:25:34 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:25:35 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:25:35 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:25:35 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:25:46 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:25:53 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:26:01 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:26:04 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:26:04 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:26:04 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:26:04 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:26:04 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:26:04 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:26:04 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:26:04 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:26:04 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:26:05 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:26:05 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:26:05 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:26:06 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:26:07 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:26:07 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:26:08 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:26:08 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:26:08 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:26:08 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:26:08 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:28:52 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:28:53 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:28:53 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:28:53 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:28:53 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:28:53 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:28:53 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:28:53 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:28:53 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:28:53 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:28:53 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:29:01 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:29:06 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0.001
+[17.05.2017 11:29:06 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:29:11 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:29:18 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:29:18 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:29:18 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:29:18 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:30:08 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:30:13 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:30:13 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:30:14 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:30:14 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:30:14 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:30:14 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:30:14 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:30:14 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:30:14 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:30:14 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:30:21 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:30:27 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0.001
+[17.05.2017 11:30:28 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:31:24 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:31:24 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:31:24 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:31:24 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:31:31 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:32:54 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:32:54 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:32:54 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:32:54 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:32:54 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:32:54 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:32:54 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:32:54 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:33:01 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:33:11 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:33:13 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:33:13 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:33:14 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0.001
+[17.05.2017 11:33:14 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:33:23 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:33:27 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:33:27 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:33:28 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:33:28 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:35:25 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:35:27 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:35:27 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:35:27 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:35:27 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:35:27 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:35:27 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:35:27 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:35:27 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:35:27 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:35:27 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:35:35 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:35:40 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:35:40 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:35:45 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:35:49 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:35:49 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:35:49 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:35:49 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:36:36 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:36:39 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:36:39 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:36:39 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:36:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:36:39 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:36:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:36:39 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:36:39 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:36:39 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:36:39 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:36:45 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:36:54 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:36:59 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:37:08 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:37:13 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:37:13 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:37:13 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:37:13 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:42:07 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:42:12 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:42:12 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:42:12 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:42:12 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:42:12 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:42:12 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:42:12 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:42:12 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:42:12 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:42:12 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:42:14 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:42:14 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:42:14 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:42:24 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:42:32 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:42:42 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:42:47 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:42:47 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:44:13 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:44:17 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:44:17 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:44:17 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:44:17 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:44:17 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:44:17 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:44:17 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:44:17 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:44:17 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:44:17 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:44:24 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:44:27 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:44:27 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:44:28 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:44:28 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:44:28 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:44:29 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:44:35 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:45:19 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:45:22 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:45:22 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:45:22 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:45:22 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:45:23 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:45:23 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:45:27 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:45:37 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:45:37 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:45:49 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:45:52 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:45:58 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:46:02 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:46:11 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:46:17 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:46:17 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:46:17 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:46:29 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:53:10 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:53:11 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:53:11 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:53:11 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:53:11 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:53:11 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:53:11 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:53:11 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:53:11 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:53:11 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:53:11 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:53:19 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:53:24 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:53:24 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:53:29 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:53:33 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:53:33 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:53:33 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:53:33 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:54:52 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:54:53 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:54:53 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:54:53 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:54:53 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:54:53 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:54:53 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:54:53 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:54:53 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:54:53 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:54:53 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:55:01 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:55:04 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0.001
+[17.05.2017 11:55:04 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:55:09 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:55:13 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:55:13 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:55:13 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:55:13 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 11:56:20 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 11:56:23 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 11:56:24 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 11:56:24 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 11:56:24 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 11:56:24 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 11:56:24 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 11:56:24 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 11:56:24 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 11:56:24 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 11:56:24 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 11:56:30 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 11:56:33 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 11:56:33 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 11:56:34 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 11:56:34 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 11:56:34 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 11:56:34 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 11:56:34 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 13:08:26 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 13:08:26 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 13:08:26 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 13:08:26 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 13:08:26 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 13:08:27 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 13:08:27 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 13:08:27 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 13:08:27 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 13:08:27 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 13:08:27 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 13:13:10 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 13:13:14 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 13:13:15 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 13:13:16 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 13:13:17 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 13:13:17 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 13:13:17 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 13:13:17 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 13:13:29 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 13:13:34 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 13:13:34 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 13:13:34 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 13:13:34 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 13:13:34 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 13:13:34 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 13:13:34 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 13:13:34 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 13:13:34 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 13:13:34 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 13:14:03 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 13:14:03 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0.001
+[17.05.2017 13:14:03 core\classes\LCARS] DEBUG Publish Template userinfo
+[17.05.2017 13:14:04 core\classes\LCARS] DEBUG Starting Executing Request for: /ajax/s
+[17.05.2017 13:14:04 core\classes\LCARS] DEBUG Publish ControllerInterface ajax
+[17.05.2017 13:14:04 module\main\controller\AjaxController] DEBUG URI: /ajax/s
+[17.05.2017 13:14:04 module\main\controller\AjaxController] DEBUG Index[0] : s
+[17.05.2017 13:14:04 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/RegistryFrame
+[17.05.2017 13:18:17 core\classes\LCARS] DEBUG Starting Executing Request for: /
+[17.05.2017 13:18:19 core\classes\LCARS] DEBUG Publish BaseController standard
+[17.05.2017 13:18:19 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/Head_BG
+[17.05.2017 13:18:19 module\main\templates\StandardFrameHeaderTemplate] DEBUG /images/main/png/ufp_logo
+[17.05.2017 13:18:19 core\classes\LCARS] DEBUG Starting Executing Request for: /design/main/AjaxFrame
+[17.05.2017 13:18:19 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/effects
+[17.05.2017 13:18:19 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/mytest
+[17.05.2017 13:18:19 core\classes\LCARS] DEBUG Starting Executing Request for: /lcarslogic/main/js/prototype
+[17.05.2017 13:18:19 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Background
+[17.05.2017 13:18:19 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/Head_BG
+[17.05.2017 13:18:19 core\classes\LCARS] DEBUG Starting Executing Request for: /images/main/png/ufp_logo
+[17.05.2017 13:18:36 core\classes\LCARS] DEBUG Starting Executing Request for: /userinfo/user
+[17.05.2017 13:18:46 core\classes\datastorage\RPGUserDatabase] INFO getUser took: 0
+[17.05.2017 13:18:46 core\classes\LCARS] DEBUG Publish Template userinfo

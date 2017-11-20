@@ -1,0 +1,62 @@
+@CHARSET "utf-8";
+
+html {
+
+	background-color: black;
+    color: #FFF;
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+h1 { color: silver; }
+
+
+
+header {
+	background-color: transparent;
+	<!--filter: blur(1px);-->
+}
+
+header img {
+	display: block;
+    margin: 0 auto;
+}
+
+header h1 {
+	text-align: center;
+}
+
+header section {
+	border-radius: 15px;
+	padding-left: 15px;
+	background-color: #53b5ea;
+}
+
+footer {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: auto;
+	width: 98%;
+	margin: auto;
+	border-radius: 15px;
+	padding-right: 15px;
+	background-color: #53b5ea;
+}
+
+footer p {
+	text-align: right;
+}
+
+
+a, a:hover {
+	color: #fff;
+}
+
+form:hover {
+	
+}
+
+main {
+	display: block;
+}
